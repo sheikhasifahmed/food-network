@@ -1,0 +1,78 @@
+body {
+  margin-top: 40px;
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.flex-container {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+}
+h1 {
+  font-size: 3.5em;
+  margin-top: -40px;
+  color: grey;
+  font-family: fantasy;
+}
+h2 {
+  font-size: 2em;
+}
+.half-width img {
+  height: 500px;
+}
+.text {
+  margin-top: 100px;
+  margin-left: 50px;
+  color: rgb(61, 19, 4);
+}
+section {
+  margin: 100px 30px 100px 30px;
+}
+.color {
+  color: rgb(12, 135, 184);
+}
+p {
+  font-size: large;
+  color: grey;
+  margin-bottom: 40px;
+  
+}
+.btn {
+  background-color: rgb(12, 169, 231);
+  text-decoration: none;
+  font-size: 15px;
+  padding: 10px 40px;
+  border-radius: 20px;
+  color: white;
+ 
+}
+.centre {
+  text-align: center;
+  margin: 0 auto;
+  width: 50%;
+}
+.recipie img {
+  
+  width: 350px;
+}
+.recipie {
+  width: 33%
+  color: rgb(14, 46, 46);
+  box-shadow: 10px 10px 30px grey;
+  margin: 5px 20px;
+  padding: 20px 20px;
+  border-radius: 20px;
+}
+#mid-sec{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align:center;
+    padding: 30px 50px;
+}
+.justify{
+    text-align: justify;
+}
