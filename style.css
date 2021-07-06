@@ -36,7 +36,6 @@ p {
   font-size: large;
   color: grey;
   margin-bottom: 40px;
-  
 }
 .btn {
   background-color: rgb(12, 169, 231);
@@ -45,7 +44,6 @@ p {
   padding: 10px 40px;
   border-radius: 20px;
   color: white;
- 
 }
 .centre {
   text-align: center;
@@ -53,11 +51,10 @@ p {
   width: 50%;
 }
 .recipie img {
-  
   width: 350px;
 }
 .recipie {
-  width: 33%
+  width: 33%;
   color: rgb(14, 46, 46);
   box-shadow: 10px 10px 30px grey;
   margin: 5px 20px;
@@ -65,19 +62,18 @@ p {
   border-radius: 20px;
 }
 
-
-footer{
-    background-color: black;
-    color: white;
-    text-align:center;
-    padding: 30px 50px;
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 30px 50px;
 }
-.justify{
-    text-align: justify;
+.justify {
+  text-align: justify;
 }
-.media-btn{
+.media-btn {
   margin: 0 40px;
- }
- .btn-blog{
-   background-color:maroon ;
- }
+}
+.btn-blog {
+  background-color: maroon;
+}
