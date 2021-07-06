@@ -75,6 +75,9 @@ footer{
 .justify{
     text-align: justify;
 }
-#facebook{
-    background-image:url(images/shapes/Facebook-logo.png);
-}
+.media-btn{
+  margin: 0 40px;
+ }
+ .btn-blog{
+   background-color:maroon ;
+ }
